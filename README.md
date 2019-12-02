@@ -9,7 +9,7 @@
 3. [下載XML檔案與解析](https://github.com/HaoZengTW/1st-PyCrawlerMarathon/tree/master/Homework/Day_03_%E4%B8%8B%E8%BC%89XML%E6%AA%94%E6%A1%88%E8%88%87%E8%A7%A3%E6%9E%90)
 4. [HTTP Server-Client 架構說明與 利用 Python 存取 API](https://github.com/HaoZengTW/1st-PyCrawlerMarathon/tree/master/Homework/Day_04_HTTP%20Server-Client%20%E6%9E%B6%E6%A7%8B%E8%AA%AA%E6%98%8E%E8%88%87%20%E5%88%A9%E7%94%A8%20Python%20%E5%AD%98%E5%8F%96%20API)
 5. [API 資料串接 - 基本 API + JSON](https://github.com/HaoZengTW/1st-PyCrawlerMarathon/tree/master/Homework/Day_05_API%20%E8%B3%87%E6%96%99%E4%B8%B2%E6%8E%A5%20-%20%E5%9F%BA%E6%9C%AC%20API%20%2B%20JSON)
-6. API 資料串接 - Headers
+6. [API 資料串接 - Headers](https://github.com/HaoZengTW/1st-PyCrawlerMarathon/tree/master/Homework/Day_06_API%20%E8%B3%87%E6%96%99%E4%B8%B2%E6%8E%A5%20-%20Headers)
 ### 靜態網頁爬蟲技術:
 7. HTTP 靜態網頁架構說明與淺談HTML / CSS / JavaScript
 8. 靜態網頁的資料爬蟲策略
