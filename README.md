@@ -11,7 +11,7 @@
 5. [API 資料串接 - 基本 API + JSON](https://github.com/HaoZengTW/1st-PyCrawlerMarathon/tree/master/Homework/Day_05_API%20%E8%B3%87%E6%96%99%E4%B8%B2%E6%8E%A5%20-%20%E5%9F%BA%E6%9C%AC%20API%20%2B%20JSON)
 6. [API 資料串接 - Headers](https://github.com/HaoZengTW/1st-PyCrawlerMarathon/tree/master/Homework/Day_06_API%20%E8%B3%87%E6%96%99%E4%B8%B2%E6%8E%A5%20-%20Headers)
 ### 靜態網頁爬蟲技術:
-7. HTTP 靜態網頁架構說明與淺談HTML / CSS / JavaScript
+7. [HTTP 靜態網頁架構說明與淺談HTML / CSS / JavaScript](https://github.com/HaoZengTW/1st-PyCrawlerMarathon/tree/master/Homework/Day_07_HTTP%20%E9%9D%9C%E6%85%8B%E7%B6%B2%E9%A0%81%E6%9E%B6%E6%A7%8B%E8%AA%AA%E6%98%8E%E8%88%87%E6%B7%BA%E8%AB%87HTML_CSS_JavaScript)
 8. 靜態網頁的資料爬蟲策略
 9. 圖片下載
 10. PyQuery/grab
