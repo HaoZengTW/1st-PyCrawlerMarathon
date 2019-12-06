@@ -13,7 +13,7 @@
 ### 靜態網頁爬蟲技術:
 7. [HTTP 靜態網頁架構說明與淺談HTML / CSS / JavaScript](https://github.com/HaoZengTW/1st-PyCrawlerMarathon/tree/master/Homework/Day_07_HTTP%20%E9%9D%9C%E6%85%8B%E7%B6%B2%E9%A0%81%E6%9E%B6%E6%A7%8B%E8%AA%AA%E6%98%8E%E8%88%87%E6%B7%BA%E8%AB%87HTML_CSS_JavaScript)
 8. 靜態網頁的資料爬蟲策略
-9. 圖片下載
+9. [圖片下載](https://github.com/HaoZengTW/1st-PyCrawlerMarathon/blob/master/Homework/Day_09_%E5%9C%96%E7%89%87%E4%B8%8B%E8%BC%89/Day009_HW.ipynb)
 10. PyQuery/grab
 11. Regular expression
 12. ETTODAY 靜態爬蟲實作練習
