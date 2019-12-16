@@ -15,7 +15,7 @@
 8. [靜態網頁的資料爬蟲策略](https://github.com/HaoZengTW/1st-PyCrawlerMarathon/tree/master/Homework/Day_08_%E9%9D%9C%E6%85%8B%E7%B6%B2%E9%A0%81%E7%9A%84%E8%B3%87%E6%96%99%E7%88%AC%E8%9F%B2%E7%AD%96%E7%95%A5)
 9. [圖片下載](https://github.com/HaoZengTW/1st-PyCrawlerMarathon/tree/master/Homework/Day_09_%E5%9C%96%E7%89%87%E4%B8%8B%E8%BC%89)
 10. [PyQuery/grab](https://github.com/HaoZengTW/1st-PyCrawlerMarathon/tree/master/Homework/Day_10_PyQuerygrab)
-11. Regular expression
+11. [Regular expression](https://github.com/HaoZengTW/1st-PyCrawlerMarathon/tree/master/Homework/Day_11_Regular%20expression)
 12. ETTODAY 靜態爬蟲實作練習
 13. PTT(批踢踢)網路爬蟲實作練習
 14. Yahoo! 電影網頁爬蟲實作練習
