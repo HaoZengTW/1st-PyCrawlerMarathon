@@ -20,7 +20,7 @@
 13. [PTT(批踢踢)網路爬蟲實作練習](https://github.com/HaoZengTW/1st-PyCrawlerMarathon/tree/master/Homework/Day_13_PTT(%E6%89%B9%E8%B8%A2%E8%B8%A2)%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2%E5%AF%A6%E4%BD%9C%E7%B7%B4%E7%BF%92)
 14. [Yahoo! 電影網頁爬蟲實作練習](https://github.com/HaoZengTW/1st-PyCrawlerMarathon/tree/master/Homework/Day_14_Yahoo!%20%E9%9B%BB%E5%BD%B1%E7%B6%B2%E9%A0%81%E7%88%AC%E8%9F%B2%E5%AF%A6%E4%BD%9C%E7%B7%B4%E7%BF%92)
 15. [金融資訊網頁爬蟲實作練習](https://github.com/HaoZengTW/1st-PyCrawlerMarathon/tree/master/Homework/Day_15_%E9%87%91%E8%9E%8D%E8%B3%87%E8%A8%8A%E7%B6%B2%E9%A0%81%E7%88%AC%E8%9F%B2%E5%AF%A6%E4%BD%9C%E7%B7%B4%E7%BF%92)
-16. Wiki的爬蟲實作練習
+16. [Wiki的爬蟲實作練習](https://github.com/HaoZengTW/1st-PyCrawlerMarathon/tree/master/Homework/Day_16_Wiki%E7%9A%84%E7%88%AC%E8%9F%B2%E5%AF%A6%E4%BD%9C%E7%B7%B4%E7%BF%92)
 ### 動態網頁爬蟲技術:
 17. HTTP 動態網頁架構說明與非同步取得資料
 18. 瀏覽器開發者工具介紹
