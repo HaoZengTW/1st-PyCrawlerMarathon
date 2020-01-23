@@ -26,7 +26,7 @@
 18. [瀏覽器開發者工具介紹](https://github.com/HaoZengTW/1st-PyCrawlerMarathon/tree/master/Homework/Day_18_%E7%80%8F%E8%A6%BD%E5%99%A8%E9%96%8B%E7%99%BC%E8%80%85%E5%B7%A5%E5%85%B7%E4%BB%8B%E7%B4%B9)
 19. [動態網頁爬蟲 - 使用Selenium + BeautifulSoup 模擬瀏覽器執行](https://github.com/HaoZengTW/1st-PyCrawlerMarathon/tree/master/Homework/Day_19_%E5%8B%95%E6%85%8B%E7%B6%B2%E9%A0%81%E7%88%AC%E8%9F%B2%20-%20%E4%BD%BF%E7%94%A8Selenium%20%2B%20BeautifulSoup%20%E6%A8%A1%E6%93%AC%E7%80%8F%E8%A6%BD%E5%99%A8%E5%9F%B7%E8%A1%8C)
 20. [動態網頁爬蟲 - 利用開發者工具，觀察模擬 API 存取](https://github.com/HaoZengTW/1st-PyCrawlerMarathon/tree/master/Homework/Day_20_%E5%8B%95%E6%85%8B%E7%B6%B2%E9%A0%81%E7%88%AC%E8%9F%B2%20-%20%E5%88%A9%E7%94%A8%E9%96%8B%E7%99%BC%E8%80%85%E5%B7%A5%E5%85%B7%EF%BC%8C%E8%A7%80%E5%AF%9F%E6%A8%A1%E6%93%AC%20API%20%E5%AD%98%E5%8F%96)
-21. ETTODAY 動態爬蟲實作練習
+21. [ETTODAY 動態爬蟲實作練習](https://github.com/HaoZengTW/1st-PyCrawlerMarathon/tree/master/Homework/Day_21_ETTODAY%20%E5%8B%95%E6%85%8B%E7%88%AC%E8%9F%B2%E5%AF%A6%E4%BD%9C%E7%B7%B4%E7%BF%92)
 22. 空氣污染網站爬蟲實作練習
 23. 東森新聞雲網站爬蟲實作練習
 24. 104人力銀行網站爬蟲實作練習
