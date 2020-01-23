@@ -24,7 +24,7 @@
 ### 動態網頁爬蟲技術:
 17. [HTTP 動態網頁架構說明與非同步取得資料](https://github.com/HaoZengTW/1st-PyCrawlerMarathon/tree/master/Homework/Day_17_HTTP%20%E5%8B%95%E6%85%8B%E7%B6%B2%E9%A0%81%E6%9E%B6%E6%A7%8B%E8%AA%AA%E6%98%8E%E8%88%87%E9%9D%9E%E5%90%8C%E6%AD%A5%E5%8F%96%E5%BE%97%E8%B3%87%E6%96%99)
 18. [瀏覽器開發者工具介紹](https://github.com/HaoZengTW/1st-PyCrawlerMarathon/tree/master/Homework/Day_18_%E7%80%8F%E8%A6%BD%E5%99%A8%E9%96%8B%E7%99%BC%E8%80%85%E5%B7%A5%E5%85%B7%E4%BB%8B%E7%B4%B9)
-19. 動態網頁爬蟲 - 使用Selenium + BeautifulSoup 模擬瀏覽器執行
+19. [動態網頁爬蟲 - 使用Selenium + BeautifulSoup 模擬瀏覽器執行](https://github.com/HaoZengTW/1st-PyCrawlerMarathon/tree/master/Homework/Day_19_%E5%8B%95%E6%85%8B%E7%B6%B2%E9%A0%81%E7%88%AC%E8%9F%B2%20-%20%E4%BD%BF%E7%94%A8Selenium%20%2B%20BeautifulSoup%20%E6%A8%A1%E6%93%AC%E7%80%8F%E8%A6%BD%E5%99%A8%E5%9F%B7%E8%A1%8C)
 20. 動態網頁爬蟲 - 利用開發者工具，觀察模擬 API 存取
 21. ETTODAY 動態爬蟲實作練習
 22. 空氣污染網站爬蟲實作練習
